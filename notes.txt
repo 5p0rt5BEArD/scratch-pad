@@ -1,0 +1,24 @@
+HARDWARE
+- monitor search
+- dell basket
+
+LOOT
+- spreadt og loot types
+- design 1 as slide
+- desigb 2 as slide
+
+REPOS
+- git hub dersktop
+- clone idel-dungeon
+- open  empty Unity project
+- commit
+- shre access to github and unity
+or
+- git hub dersktop
+- clone loot-dungeon
+- do boilerplater udemy
+- commit
+- shre access to github and unity
+
+DELL_UK_ONLINE_SUPPORT@Dell.com
+confirmed@order.dell.com
