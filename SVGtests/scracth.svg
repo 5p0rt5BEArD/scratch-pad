@@ -1,0 +1,74 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet">
+    <rect width="100%" height="100%" stroke="black" fill="none"/>
+    <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="100%" width = "63%" >
+
+        <rect width="100%" height="100%" fill="black" stroke="white"/>
+        
+        <g transform="rotate(0 175 175)">
+            <style>.base { fill: white; font-family: serif; font-size: 14px; }</style>
+5
+            <text x="2.85%" y="5.7%" class="base">Chronicle</text>
+            <text x="2.85%" y="11.4%" class="base">Leather Armor</text>
+            <text x="2.85%" y="17.1%" class="base">Cap</text>
+            <text x="2.85%" y="22.8%" class="base">Silk Sash</text>
+            <text x="2.85%" y="28.5%" class="base">Divine Slippers of Vitriol</text>
+            <text x="2.85%" y="34.2%" class="base">Linen Gloves</text>
+            <text x="2.85%" y="39.9%" class="base">Amulet</text>
+            <text x="2.85%" y="45.6%" class="base">Bronze Ring</text>
+        </g>
+    </svg>
+     <svg xmlns="http://www.w3.org/2000/svg" x="63%" y="0" height="63%" width = "37%" >
+
+        <rect width="100%" height="100%" fill="black" stroke="white"/>
+        
+        <g transform="rotate(90 108 108)">
+            <style>.base2 { fill: white; font-family: serif; font-size: 8px; }</style>
+
+            <text x="2.85%" y="5.7%" class="base2">Goblins</text>
+            <text x="2.85%" y="11.4%" class="base2">Maze</text>
+            <text x="2.85%" y="17.1%" class="base2">Dragon</text>
+            <text x="2.85%" y="22.8%" class="base2">Slime</text>
+            <text x="2.85%" y="28.5%" class="base2">Underworld</text>
+            <text x="2.85%" y="34.2%" class="base2">Burning Oil</text>
+            <text x="2.85%" y="39.9%" class="base2">Treasure</text>
+            <text x="2.85%" y="45.6%" class="base2">Daunting</text>
+        </g>
+    </svg>
+
+     <svg xmlns="http://www.w3.org/2000/svg" x="78%" y="63%" height="37%" width = "22%" >
+
+        <rect width="100%" height="100%" fill="black" stroke="white"/>
+        
+        <g transform="rotate(180 63 63)">
+            <style>.base3 { fill: white; font-family: serif; font-size: 5px; }</style>
+
+            <text x="2.85%" y="5.7%" class="base3">Chronicle</text>
+            <text x="2.85%" y="11.4%" class="base3">Leather Armor</text>
+            <text x="2.85%" y="17.1%" class="base3">Cap</text>
+            <text x="2.85%" y="22.8%" class="base3">Silk Sash</text>
+            <text x="2.85%" y="28.5%" class="base3">Divine Slippers of Vitriol</text>
+            <text x="2.85%" y="34.2%" class="base3">Linen Gloves</text>
+            <text x="2.85%" y="39.9%" class="base3">Amulet</text>
+            <text x="2.85%" y="45.6%" class="base3">Bronze Ring</text>
+        </g>
+    </svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" x="63%" y="78%" height="24%" width = "15%" >
+
+        <rect width="100%" height="100%" fill="black" stroke="white"/>
+        
+        <g transform="rotate(270 38 38)">
+            <style>.base4 { fill: white; font-family: serif; font-size: 3px; }</style>
+
+            <text x="2.85%" y="5.7%" class="base4">Chronicle</text>
+            <text x="2.85%" y="11.4%" class="base4">Leather Armor</text>
+            <text x="2.85%" y="17.1%" class="base4">Cap</text>
+            <text x="2.85%" y="22.8%" class="base4">Silk Sash</text>
+            <text x="2.85%" y="28.5%" class="base4">Divine Slippers of Vitriol</text>
+            <text x="2.85%" y="34.2%" class="base4">Linen Gloves</text>
+            <text x="2.85%" y="39.9%" class="base4">Amulet</text>
+            <text x="2.85%" y="45.6%" class="base4">Bronze Ring</text>
+        </g>
+    </svg>
+</svg>

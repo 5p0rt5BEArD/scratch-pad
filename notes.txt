@@ -22,3 +22,5 @@ or
 
 DELL_UK_ONLINE_SUPPORT@Dell.com
 confirmed@order.dell.com
+
+<svg xmlns="http://www.w3.org/2000/svg" stroke="#000" fill="none" height="100%" width = "100%" >
