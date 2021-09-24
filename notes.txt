@@ -24,3 +24,22 @@ DELL_UK_ONLINE_SUPPORT@Dell.com
 confirmed@order.dell.com
 
 <svg xmlns="http://www.w3.org/2000/svg" stroke="#000" fill="none" height="100%" width = "100%" >
+
+
+WORKFOW
+
+Workflow update.
+
+I'm running a local blockchain via ganache GUI
+
+I'm using truffle to initialise my solidity projects. Using it to compile (truffle compile) and deploy (truffle migrate).
+(Do all that on Remix - forget truffle ?!)
+
+I've installed remix deamon (npm install -g @remix-project/remixd) and connected my project folder to http://remix.ethereum.org/ as per instructions on the medium post Joe shared https://medium.com/authereum/debugging-solidity-with-a-gui-remix-and-ganache-c6c16488fcfd
+remixd -s ./Loot/ --remix-ide http:remix.ethereum.org
+
+(https remix still does not allow connection to the local Ganache web3 provider because that is http. I'm using http: remix in Chrome (Brave wont let me) where I have had to explicitly activate the debug plugin)
+
+I can now edit contracts locally using my github backed visual studio project. (Deploy to Ganache ?) Compile and Deploy in remix
+
+I'm
