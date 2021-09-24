@@ -28,18 +28,26 @@ confirmed@order.dell.com
 
 WORKFOW
 
-Workflow update.
+- Compile, deploy and debug in remix, with files in GitHUb
+-- Use remix deamon to link local files to remix idel
+-- npm install -g @remix-project/remixd
+-- remixd -s ./Loot/ -u https://remix.ethereum.org/
+-- active remixd plugin in remix
+-- edit in remix or vs code
+-- either use remix vm or
+-- run Ganache locally and connect as web 3 provider
 
-I'm running a local blockchain via ganache GUI
+- Optional truffle use, for commnd line compile and deploy. Also better debug with Ganache UI
+-- truffle init
+-- truffle compile
+-- truffle migrate
 
-I'm using truffle to initialise my solidity projects. Using it to compile (truffle compile) and deploy (truffle migrate).
-(Do all that on Remix - forget truffle ?!)
+Gotchs:
+- Remix connect to Deamon does not work in Brave - works in Chrome
+- Remix needs debug plugin enabling in Chrome (doesn't in Brave)
+- activate the debug plugin
 
-I've installed remix deamon (npm install -g @remix-project/remixd) and connected my project folder to http://remix.ethereum.org/ as per instructions on the medium post Joe shared https://medium.com/authereum/debugging-solidity-with-a-gui-remix-and-ganache-c6c16488fcfd
-remixd -s ./Loot/ --remix-ide http:remix.ethereum.org
-
-(https remix still does not allow connection to the local Ganache web3 provider because that is http. I'm using http: remix in Chrome (Brave wont let me) where I have had to explicitly activate the debug plugin)
-
-I can now edit contracts locally using my github backed visual studio project. (Deploy to Ganache ?) Compile and Deploy in remix
-
-I'm
+To explore:
+- Does connecting truffle projects to Ganache UI help much?
+- Can we run remix desktop for easier use
+- What happens for deploying to public nets
