@@ -31,7 +31,7 @@ WORKFOW
 - Compile, deploy and debug in remix, with files in GitHUb
 -- Use remix deamon to link local files to remix idel
 -- npm install -g @remix-project/remixd
--- remixd -s ./Loot/ -u https://remix.ethereum.org/
+-- remixd -s ./ -u https://remix.ethereum.org/
 -- active remixd plugin in remix
 -- edit in remix or vs code
 -- either use remix vm or
@@ -51,3 +51,7 @@ To explore:
 - Does connecting truffle projects to Ganache UI help much?
 - Can we run remix desktop for easier use
 - What happens for deploying to public nets
+
+
+PLAYMINT nets
+Loot - 0xF2272CDb657Ac8Fa0907429f0d4cb8E47AB83e39
