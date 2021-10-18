@@ -1,3 +1,13 @@
+- Tidy
+- Class or funcs
+- Build into frontend
+- don't use index
+- use config...
+- write readme
+- add raid txn
+- chaos engne - or what da passed around 
+- 
+
 HARDWARE
 - monitor search
 - dell basket
@@ -26,7 +36,7 @@ confirmed@order.dell.com
 <svg xmlns="http://www.w3.org/2000/svg" stroke="#000" fill="none" height="100%" width = "100%" >
 
 
-WORKFOW
+WORKFOW 
 
 - Compile, deploy and debug in remix, with files in GitHUb
 -- Use remix deamon to link local files to remix idel
@@ -55,3 +65,36 @@ To explore:
 
 PLAYMINT nets
 Loot - 0xF2272CDb657Ac8Fa0907429f0d4cb8E47AB83e39
+
+git reflog 37656e1 HEAD@{0}: rebase -i (finish): returning to refs/heads/git_reflog 37656e1 HEAD@{1}: rebase -i (start): checkout origin/main 37656e1 HEAD@{2}: commit: some WIP changes 
+
+
+Ian Livingstone has finished writing the Loot Dungeon texts:
+https://docs.google.com/spreadsheets/d/1u-pmeC5QXwhdIt29SY1fFMCo6HZBHuYy-9vOipy2P1M/edit?usp=sharing
+
+They're a big improvement and I;m excited we can let people discover he's involved.
+
+This is my proposed feedback but can you have a look and see what you think too please?
+
+Hi Ian,
+
+Thanks so much for writing these. They're great! I particularly like that the categories have gone from dry dungeon descriptions to some more intriguing ones. e.g. Floors becoming Passageways, including things like "the maze of madness" is spot on. And the new categories of "The Soulless" and "Demi Gods" work much better than “Realm” and “Element” with the raid result sentences.
+
+The Raid Chance Sentences are great too and work well to show a clear ranking. 
+
+You mentioned that the Purple Orb of Xang is on the colourful end of the spectrum but I think over all there's a healthy mix of standard lore and left-field.
+
+Some specific questions:
+
+- You've gone back to Relics for the NFT reward and added a Dungeon trait category of Artefacts. I like this but is there is reason to have it that way round?
+
+- The Boss Monster matched with the silk hood is listed as "the" do you remember what you intended there?
+
+- The new NFT traits of Gem and Mineral clash a bit with the NFT material. It would be good to come up with at least one more NFT trait.
+
+- The raid result sentences are looking much better now. I think the Boosters have the loot/dungeon items the wrong way round though e.g. it should be "The Bone Demon doubled the power of the Gold Ring" rather than "The Gold Ring doubled the power of the Bone Demon". Or perhaps it should be "The Gold Ring doubled your powers against The Bone Demon”?
+
+We may need to shorten some of the dungeon traits for technical reasons but we can handle that if need be.
+
+Thanks,
+Iain 
